@@ -12,7 +12,7 @@ A browser-based 2D road design tool built with vanilla HTML, CSS, and JavaScript
 Will come soon.
 
 ## How to Run
-For early development, just open `index.html` in a broswer.
+For early development, just open `index.html` in a browser.
 
 ## Technologies Used
 
